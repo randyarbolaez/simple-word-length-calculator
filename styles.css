@@ -1,0 +1,23 @@
+body {
+  background: #a393bf;
+  font-family: 'Kalam', cursive;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.wrapper h1 {
+  color: #73648a;
+  font-size: 5rem;
+}
+
+.sub-wrapper input {
+  font-family: 'Kalam', cursive;
+  color: #a393bf;
+  font-size: 1.4rem;
+  width: 12vw;
+  height: 5vh;
+}
